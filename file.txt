@@ -1,0 +1,4 @@
+This is a text file
+It contains many words
+This is an example for simple text file
+
